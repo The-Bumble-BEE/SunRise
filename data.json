@@ -36,8 +36,9 @@
       "name": "Tor",
       "description": "The Tor Browser",
       "images": {
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tor-logo-2011-flat.svg/65px-Tor-logo-2011-flat.svg.png",
-        "1": "https://www.torproject.org/static/images/tor-project-logo-onions.png"
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/d/df/Tor_Browser_icon_%28New%29.png",
+        "1": "https://www.torproject.org/static/images/tor-project-logo-onions.png",
+        "2": "https://en.wikipedia.org/wiki/Tor_(network)#/media/File:Tails_7.1_Screenshot_2025-10.png"
       },
       "console_lines": [
         "sudo apt-get update",
