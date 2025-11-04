@@ -58,6 +58,18 @@
         "sudo apt-get update",
         "sudo apt-get upgrade"
       ]
-    } 
+    },
+    {
+      "id": 5,
+      "class": "productivity",
+      "name": "Gimp",
+      "description": "Gimp is a free editing Tool for Images.",
+      "images": {
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/GIMP_Icon.svg/1024px-GIMP_Icon.svg.png"
+      },
+      "console_lines": [
+        "flatpak install --user https://flathub.org/repo/appstream/org.gimp.GIMP.flatpakref"
+      ]
+    }  
   ]
 }
